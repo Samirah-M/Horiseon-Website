@@ -2,7 +2,7 @@
 
 Added accessibility features for a better user experience to ensure people with disabilities can access the website with ease.
 
-Link to GitPages: 
+Link to GitPages: https://samirah-m.github.io/Horiseon-Website/
 
 ## Credits
 
